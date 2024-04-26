@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning and exploring Web Development.<br>
 - 🥅 Goals: Learn everything as much as I can.<br>
 - ⚡ Fun fact: Your brain is constantly eating itself..<br>
-- ✉️ You can contact me at [pratikabhang.in@gmail.com](mailto:pratikabhang.in@gmail.com) <br>
-- 📌 Go through my <a href="https://pratikabhang.netlify.app/" target="_blank">Portfolio</a>
+- ✉️ You can contact me at [pateritesh27@gmail.com](mailto:pateritesh27@gmail.com) <br>
+- 📌 Go through my <a href="https://pateritesh.netlify.app/" target="_blank">Portfolio</a>
   
 <h2 align="center"></h2>
   <p align="center">
@@ -14,14 +14,14 @@
   <br>
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pratikabhang&style=for-the-badge">
-  <img src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/pratikabhang">
+  <img src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Riteshpate">
   </p>
   <br>
   <h2 align="center">🖐 Get in Touch</h2>
   <p align="center">
-  <a href="https://linkedin.com/in/pratikabhang/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="pratikabhang" /></a>
-  <a href="https://riteshpate.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="pratikabhang" /></a>
-  <a href="mailto:pratikabhang.in@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="pratikabhang" /></a>
+  <a href="https://linkedin.com/in/pratikabhang/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="riteshpate" /></a>
+  <a href="https://riteshpate.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="riteshpate" /></a>
+  <a href="mailto:pratikabhang.in@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="riteshpate" /></a>
   </p>
   <br>
   <h2 align="center">🖥️ Frontend Langauge</h2>
@@ -56,12 +56,12 @@
   <br>
   <h2 align="center">🤙 Social</h2>
   <p align="center">
-  <a href="http://www.instagram.com/pratikabhang_/"><img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/pratikabhang/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.github.com/pratikabhang/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://auth.geeksforgeeks.org/user/pratikabhang/"><img src="https://img.shields.io/badge/Geeks_for_Geeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"></a>
-  <a href="https://www.leetcode.com/pratikabhang/"><img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black"></a>
-  <a href="https://www.hackerrank.com/pratikabhang/"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+  <a href="http://www.instagram.com/ritesh27.11/"><img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ritesh-pate/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.github.com/riteshpate/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://auth.geeksforgeeks.org/user/riteshpate/"><img src="https://img.shields.io/badge/Geeks_for_Geeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"></a>
+  <a href="https://www.leetcode.com/riteshpate/"><img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://www.hackerrank.com/riteshpate/"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
   </p>
   <br>
   <h2 align="center">👨🏻‍💻 Workspace</h2>
