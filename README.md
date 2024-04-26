@@ -73,12 +73,8 @@
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   </p>
   <br>
-  <h2 align="center">📊 Statistics</h2>
   <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikabhang&theme=vue" width='450' />
-  <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pratikabhang&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast' width='350'/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&theme=highcontrast" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikabhang&theme=highcontrast"/>
+ 
   </p>
 
 ## Note : "Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
