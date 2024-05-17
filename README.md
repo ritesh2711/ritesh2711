@@ -5,7 +5,7 @@
 - 🥅 Goals: Learn everything as much as I can.<br>
 - ⚡ Fun fact: Your brain is constantly eating itself..<br>
 - ✉️ You can contact me at [pateritesh27@gmail.com](mailto:pateritesh27@gmail.com) <br>
-- 📌 Go through my <a href="https://pateritesh.netlify.app/" target="_blank">Portfolio</a>
+- 📌 Go through my <a href="https://riteshpate.netlify.app/" target="_blank">Portfolio</a>
   
 <h2 align="center"></h2>
   <p align="center">
