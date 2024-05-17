@@ -19,7 +19,7 @@
   <br>
   <h2 align="center">🖐 Get in Touch</h2>
   <p align="center">
-  <a href="https://linkedin.com/in/ritesh-pate/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="riteshpate" /></a>
+  <a href="https://www.linkedin.com/in/ritesh-pate-05094022b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="riteshpate" /></a>
   <a href="https://riteshpate.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="riteshpate" /></a>
   <a href="mailto:pateritesh27@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="riteshpate" /></a>
   </p>
